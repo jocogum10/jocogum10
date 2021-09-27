@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jocogum10
 - 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Python and Power BI
+- 🌱 I’m currently learning Python, SQL, and Power BI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
