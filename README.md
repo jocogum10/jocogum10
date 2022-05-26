@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jocogum10
-- 👀 I’m interested in Data Engineering, Web Development, or Automation
+- 👀 I’m interested in Web Development, Software Engineering, Data Engineering, and Data Automation
 - 🌱 I’m currently using Python, VBA in Excel, and Power BI
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 📫 You can reach me through my email: jocogum10@gmail.com
