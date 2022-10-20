@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 
 I aim to be a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> for a Permanent WFH set-up.
 
-- :telescope: I’m working as a Data Automation Engineer and use tech tools like Python, Power BI, Power Query, VBA, and SQL from day to day.
+- :telescope: I’m working as a Data Automation Engineer and use tech tools like Python, Power BI, Power Query, VBA, and SQL on a day to day basis.
 
 - :seedling: I'm also studying web application development using Tailwind CSS, Bootstrap, React JS, and Ruby on Rails.
 
