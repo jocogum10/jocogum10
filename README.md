@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 
 ### :technologist: About Me :
 
-I want to be a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> for a Permanent WFH set-up.
+I aim to be a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> for a Permanent WFH set-up.
 
 - :telescope: I’m working as a Data Automation Engineer and use tech tools like Python, Power BI, Power Query, VBA, and SQL from day to day.
 
